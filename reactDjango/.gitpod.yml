@@ -1,0 +1,6 @@
+tasks:
+  - init: source bin/activate && pip3 install django && pip3 install djangorestframework && pip install django-cors-headers && cd fr && npm install && npm install react-router-dom && npm install axios
+    
+vscode:
+  extensions:
+    - esbenp.prettier-vscode@5.9.2:/ZjVG4nabMGxTqOcyglnfQ==
